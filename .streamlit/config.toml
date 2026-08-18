@@ -1,0 +1,11 @@
+# Pins Streamlit's own default light theme explicitly so the app's existing
+# color combination stays fixed regardless of Streamlit version upgrades.
+# These are Streamlit's stock default values (unchanged) - see
+# DECISION_LOG.md for why no new color identity was introduced.
+[theme]
+base = "light"
+primaryColor = "#FF4B4B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#31333F"
+font = "sans serif"
