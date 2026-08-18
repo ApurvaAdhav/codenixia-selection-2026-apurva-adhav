@@ -24,12 +24,12 @@
 
 ### Problem
 
-Business teams generate large amounts of **sales, customer, inventory, and operational data**, but extracting meaningful insights from this data often requires manual analysis.
-Traditional Business Intelligence tools primarily explain **what happened**. Determining **why it happened and what action should be taken** can still require significant analytical effort.
+Business teams generate large amounts of sales, customer, inventory, and operational data, but extracting meaningful insights from this data often requires manual analysis.
+Traditional Business Intelligence tools primarily explain what happened. Determining why it happened and what action should be taken can still require significant analytical effort.
 
 ### Proposed Solution Overview
 
-The **AI Business Intelligence & Decision Support Assistant** is an AI-powered platform that enables users to **analyze business data through natural-language queries** and generate actionable insights using Data Analytics, Machine Learning, LLMs, RAG, and Agentic AI.
+The **AI Business Intelligence & Decision Support Assistant** is an AI-powered platform that enables users to analyze business data through natural-language queries and generate actionable insights using **Data Analytics, Machine Learning, LLMs, RAG, and Agentic AI**.
 Users can upload CSV/Excel datasets, ask business questions, and receive data-driven insights, visualizations, and recommendations.
 
 The system is designed to bridge the gap between **traditional Business Intelligence and AI-driven decision support**.
@@ -141,7 +141,7 @@ flowchart TB
 
 **Business User → Streamlit Dashboard → FastAPI → Data Processing → AI Agent → Analytics / ML / RAG → LLM → Decision Support**
 
-The architecture separates **data processing, analytical operations, knowledge retrieval, and AI reasoning** to support structured and data-driven business decision-making.
+The architecture separates data processing, analytical operations, knowledge retrieval, and AI reasoning to support structured and data-driven business decision-making.
 
 ---
 
@@ -149,7 +149,7 @@ The architecture separates **data processing, analytical operations, knowledge r
 
 The system goes beyond a simple **Question → LLM → Answer** approach.
 
-The AI Agent determines **which tools and analysis are required** to answer a business question.
+The AI Agent determines which tools and analysis are required to answer a business question.
 
 ```text
 User Query
@@ -220,7 +220,7 @@ This allows recommendations to be informed by both **business data and domain kn
 The system can identify:
 **Sales Trends → Key Contributors → Anomalies → Relevant Business Knowledge → Recommended Actions**
 
-This helps transform raw business data into **interpretable insights and actionable decisions**.
+This helps transform raw business data into interpretable insights and actionable decisions.
 
 ---
 
