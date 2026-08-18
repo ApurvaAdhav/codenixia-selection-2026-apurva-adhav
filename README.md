@@ -29,8 +29,8 @@ Traditional Business Intelligence tools primarily explain **what happened**. Det
 
 ### Proposed Solution Overview
 
-The **AI Business Intelligence & Decision Support Assistant** is an AI-powered platform that enables users to **analyze business data through natural-language queries** and generate actionable insights using **Data Analytics, Machine Learning, LLMs, RAG, and Agentic AI**.
-Users can upload **CSV/Excel datasets**, ask business questions, and receive data-driven insights, visualizations, and recommendations.
+The **AI Business Intelligence & Decision Support Assistant** is an AI-powered platform that enables users to **analyze business data through natural-language queries** and generate actionable insights using Data Analytics, Machine Learning, LLMs, RAG, and Agentic AI.
+Users can upload CSV/Excel datasets, ask business questions, and receive data-driven insights, visualizations, and recommendations.
 
 The system is designed to bridge the gap between **traditional Business Intelligence and AI-driven decision support**.
 
